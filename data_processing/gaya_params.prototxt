@@ -1,0 +1,8 @@
+comment: "trial codes for the august 10th Gaya data"
+subtrial_start_codes: 25
+subtrial_end_codes: 26
+margin_before: 0.5
+margin_after: 0.5
+template_prototxt: "gaya_template.prototxt"
+trial_to_condition_func: "(NEV_code) (NEV_code(3)-192)*64+(NEV_code(4)-192)"
+spike_no_secondary_unit: false

@@ -1,0 +1,64 @@
+comment: "trial template for the august 10th Gaya data"
+
+
+codes {
+    code: 16
+}
+
+codes {
+    code: 23
+}
+
+codes {
+    type: CODETYPE_RANGE
+    code: 192
+    code: 255
+}
+
+codes {
+    type: CODETYPE_RANGE
+    code: 192
+    code: 255
+}
+
+codes {
+    code: 25
+}
+
+codes {
+    code: 26
+}
+
+codes {
+    type: CODETYPE_RANGE
+    code: 110
+    code: 112
+}
+
+codes {
+    code: 104
+}
+
+codes {
+    code: 8
+}
+
+codes {
+    code: 24
+}
+
+codes {
+    code: 17
+}
+
+codes {
+    code: 128
+}
+
+codes {
+    code: 101
+}
+
+codes {
+    code: 96
+}
